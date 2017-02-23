@@ -26,5 +26,7 @@ and open the template in the editor.
         
         en paralelo con la rama
         
+        otra en la principal
+        
     </body>
 </html>
