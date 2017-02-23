@@ -26,5 +26,9 @@ and open the template in the editor.
         
         OTRA VEZ EN LA RAMA -> tercera linea rama
         
+        en paralelo con la rama
+        
+        otra en la principal
+        
     </body>
 </html>
