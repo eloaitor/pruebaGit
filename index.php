@@ -30,6 +30,7 @@ and open the template in the editor.
         
         otra en la principal
         
+        hau nabegadorean eginda
         pruebaaaa merge
         
     </body>
